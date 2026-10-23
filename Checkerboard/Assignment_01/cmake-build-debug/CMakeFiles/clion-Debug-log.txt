@@ -1,0 +1,17 @@
+"C:\Program Files\JetBrains\CLion 2024.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.3.3/bin/ninja/win/x64/ninja.exe" -DCMAKE_TOOLCHAIN_FILE=C:\Users\emily\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S C:\Users\emily\Desktop\SaxionCMGT\renderin\Assignment_01\Assignment_01 -B C:\Users\emily\Desktop\SaxionCMGT\renderin\Assignment_01\Assignment_01\cmake-build-debug
+-- The C compiler identification is MSVC 19.42.34435.0
+-- The CXX compiler identification is MSVC 19.42.34435.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.42.34433/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found SFML 3.0.2 in C:/Users/emily/.vcpkg-clion/vcpkg/installed/x64-windows/share/sfml
+-- Configuring done (2.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/emily/Desktop/SaxionCMGT/renderin/Assignment_01/Assignment_01/cmake-build-debug

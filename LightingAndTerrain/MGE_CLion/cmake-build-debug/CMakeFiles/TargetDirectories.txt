@@ -1,0 +1,3 @@
+C:/Users/emily/Desktop/SaxionCMGT/renderin/MGE_CLion/MGE_CLion/cmake-build-debug/CMakeFiles/MGE_CLion.dir
+C:/Users/emily/Desktop/SaxionCMGT/renderin/MGE_CLion/MGE_CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emily/Desktop/SaxionCMGT/renderin/MGE_CLion/MGE_CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

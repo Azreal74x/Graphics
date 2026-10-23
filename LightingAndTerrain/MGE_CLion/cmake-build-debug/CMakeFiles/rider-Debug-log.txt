@@ -1,0 +1,4 @@
+Cannot generate into C:\Users\emily\Documents\Git\Graphics\LightingAndTerrain\MGE_CLion\cmake-build-debug
+It is already used for project C:\Users\emily\Desktop\SaxionCMGT\renderin\MGE_CLion\MGE_CLion
+
+Please either delete it manually or select another generation directory

@@ -1,0 +1,3 @@
+C:/Users/emily/Desktop/SaxionCMGT/renderin/Assignment_01/Assignment_01/cmake-build-debug/CMakeFiles/Assignment_01.dir
+C:/Users/emily/Desktop/SaxionCMGT/renderin/Assignment_01/Assignment_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emily/Desktop/SaxionCMGT/renderin/Assignment_01/Assignment_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
